@@ -1,3 +1,5 @@
 Sistema de nucleo de pesquisa utilizando Php, html e sql no phpmyadmin
-foi tentando a migração do sistema para laravel porém como o sistema ja estáva completo e os Models não estavam funcionando mesmo com pesquisa nos manuais do laravel e em pesquisas, foi deixado sem a implementação do laravel
-O projeto acompanha um mp4 demonstrando o sistema
+
+Foi tentando a produção do sistema no laravel, até mesmo ao iniciar o sistema do zero desenvolvendo no laravel, porém os controllers e o php artisan tinker não conseguia de forma alguma achar os models, sempre dizendo como se não existisse, fiquei dois dias tentando concertar porem sem sucesso, então aqui vai o sistema utilizando o phpmyadmin
+
+deixo disponivel o sistema feito em laravel sem sucesso dentro da pasta LaravelWIP 
